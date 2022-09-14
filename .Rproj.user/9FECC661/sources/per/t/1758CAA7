@@ -1,0 +1,26 @@
+{
+    "id": "1758CAA7",
+    "path": "~/tumProjects/keywordMaster/rKeywordGenerator/lib/keyword_funct.R",
+    "project_path": "lib/keyword_funct.R",
+    "type": "r_source",
+    "hash": "1245824160",
+    "contents": "",
+    "dirty": false,
+    "created": 1663145126294.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "6,335",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1663144657,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1663144657,
+    "read_only": false,
+    "read_only_alternatives": []
+}

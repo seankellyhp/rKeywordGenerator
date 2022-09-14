@@ -1,0 +1,26 @@
+{
+    "id": "87490C23",
+    "path": "~/tumProjects/keywordMaster/rKeywordGenerator/lib/keyword_example.R",
+    "project_path": "lib/keyword_example.R",
+    "type": "r_source",
+    "hash": "509386370",
+    "contents": "",
+    "dirty": false,
+    "created": 1663144897396.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "31,35",
+        "scrollLine": "26"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1663149880,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1663149880578,
+    "read_only": false,
+    "read_only_alternatives": []
+}
